@@ -1,0 +1,18 @@
+.intro {
+  margin-left: 50px;
+  margin-top: 90px;
+}
+
+.hey-im {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.i-like {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.homepage {
+  display: flex;
+}
